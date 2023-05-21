@@ -3,7 +3,7 @@ import Login from './Form';
 
 
 var isLoggedIn = false;
-var userIsRegistered = false;
+var userIsRegistered = true;
 
 function App() {
   return (
